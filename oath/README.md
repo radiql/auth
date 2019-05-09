@@ -1,4 +1,4 @@
-# OAuth Story
+# OAuth
 
 Documentation for the OAuth stories:
 
