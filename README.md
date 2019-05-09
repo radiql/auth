@@ -1,2 +1,7 @@
 # stories-auth
-Authentication stories
+This repository contains authentication stories for RADiQL.
+
+OAuth
+OAuth2
+
+
