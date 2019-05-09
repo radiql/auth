@@ -6,6 +6,6 @@ This repository contains authentication stories for RADiQL.
 - LDAP
 - OpenID Connect
 
-At some piont it's envisaged that we'll included custom authentication.
+At some point it's envisaged that we'll include a story for custom authentication.
 
 
